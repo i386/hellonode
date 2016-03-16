@@ -1,0 +1,8 @@
+{
+  "name": "Hello Node",
+  "description": "A very simple node app",
+  "repository": "https://github.com/i386/hellonode",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "static"],
+  "image": "heroku/nodejs"
+}
