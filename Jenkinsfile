@@ -1,5 +1,4 @@
 
-echo 'Welcome to the thunderdome'
 node {
   stage 'Build'
   checkout scm
